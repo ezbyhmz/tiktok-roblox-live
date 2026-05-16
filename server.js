@@ -8,7 +8,7 @@ app.use(express.json());
 // ==========================
 // CONFIG - MODIFIE ICI
 // ==========================
-const TIKTOK_USERNAME = "VOTRE_USERNAME_TIKTOK"; // ex: "tribilinbotello"
+const TIKTOK_USERNAME = "bzhrayann"; // ex: "tribilinbotello"
 const MAX_AVATARS = 45;
 const POLL_INTERVAL_MS = 2000; // Roblox poll toutes les 2s
 // ==========================
